@@ -1,41 +1,28 @@
-# 🌦️ Weather Dashboard
+# Hi 👋, I'm Lokesh R
 
-A modern, responsive weather dashboard built with **React**, **TypeScript**, **Tailwind CSS**, and **Weather API**.
+## 💻 Software Engineer | Full Stack Developer | AI Enthusiast
 
-## 🚀 Live Demo
-🌐 https://metro-weather-cast.lovable.app/
+🎓 B.Sc. Computer Science Student
 
-## 💻 Source Code
-📂 https://github.com/Lokeshrouge/weather-dashboard
-
-## ✨ Features
-
-- 🌤️ Real-time weather updates
-- 📍 Multiple Chennai locations
-- 📱 Fully responsive design
-- 🎨 Modern UI/UX
-- ⚡ Fast performance
-- 🔥 Firebase deployment
-
-## 🛠️ Tech Stack
-
+🌱 Currently Learning
 - React
 - TypeScript
-- Tailwind CSS
+- Python
 - Firebase
-- Weather API
-- Vite
+- AI Development
 
-## 📸 Preview
+## 🚀 My Projects
 
-> Add a screenshot of your project here later.
+- 🌦️ Weather Dashboard
+- 🤖 AI Resume Builder
+- 🌧️ Rainfall Analysis
+- 🌐 Personal Portfolio (Coming Soon)
 
-## 👨‍💻 Developer
+## 🌐 Connect with Me
 
-**Lokesh R**
-
-- 🌐 Portfolio: https://ravilokesh.dev
 - 💼 LinkedIn: https://linkedin.com/in/lokesh-r-9908b03a3
-- 📧 Email: ravilokesh2006@gmail.com
+- 💻 GitHub: https://github.com/Lokeshrouge
+- 🌍 Portfolio: https://ravilokesh.dev
 
-⭐ If you like this project, don't forget to star the repository!
+---
+⭐ Thanks for visiting my profile!
